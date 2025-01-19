@@ -20,11 +20,11 @@
 <div>
   <img
     height="185rem"
-    src="https://github-readme-stats.vercel.app/api?username=CostVictor&show_icons=true&theme=dark&include_al_commits=True"
+    src="https://github-readme-stats.vercel.app/api?username=CostVictor&show_icons=true&theme=dark&include_all_commits=True&count_private=True"
   />
   <img
     height="185rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostVictor&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostVictor&layout=compact&theme=dark&include_all_commits=True&count_private=True"
   />
 </div>
 
