@@ -19,11 +19,11 @@
 
 <div>
   <img
-    height="180rem"
+    height="185rem"
     src="https://github-readme-stats.vercel.app/api?username=CostVictor&show_icons=true&theme=dark&include_al_commits=True"
   />
   <img
-    height="180rem"
+    height="185rem"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostVictor&layout=compact&theme=dark"
   />
 </div>
