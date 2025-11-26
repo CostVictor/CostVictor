@@ -15,19 +15,6 @@
 
 <div>
   <img
-    height="185rem"
-    src="https://github-readme-stats.vercel.app/api?username=CostVictor&show_icons=true&theme=dark&include_all_commits=True&count_private=True"
-  />
-  <img
-    height="185rem"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostVictor&layout=compact&theme=dark&include_all_commits=True&count_private=True"
-  />
-</div>
-
----
-
-<div>
-  <img
     width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
